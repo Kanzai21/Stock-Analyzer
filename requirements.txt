@@ -1,5 +1,6 @@
 streamlit
 pandas
 sqlalchemy
-plotly.graph_objects
+pymysql
+plotly
 numpy
